@@ -27,7 +27,16 @@ GIF created with ...
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
+App: Instagram
+- the sidebar is amazing
+- I like the profile page
+- Threats
+App: Twitter
+- The refresh feature on main page
+- The comments section of each post
 
+I wanted to build a simple fitness app that can track daily workouts completed, giving a set of new workouts based on the options. 
+One of the feature is to have a tracking page that can provide feedback/suggestions based on your weekly reports. 
 ## Notes
 
 Describe any challenges encountered while building the app.
@@ -47,3 +56,4 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
