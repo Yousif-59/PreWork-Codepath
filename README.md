@@ -14,14 +14,14 @@ The following **required** functionality is completed:
 - [Y] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-
+I used this website to create my gif for the app. I also posted a link to the gif hopefully it works. 
 Here's a walkthrough of implemented user stories:
-
+https://imgur.com/a/HTZdP1W
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
+<GIF used:>
+GIF created with https://imgur.com/a/HTZdP1W
+
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
