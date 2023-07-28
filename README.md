@@ -17,10 +17,12 @@ The following **required** functionality is completed:
 I used this website to create my gif for the app. I also posted a link to the gif hopefully it works. 
 Here's a walkthrough of implemented user stories:
 https://imgur.com/a/HTZdP1W
+https://imgur.com/a/HTZdP1W.gif
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <GIF used:>
 GIF created with https://imgur.com/a/HTZdP1W
+https://imgur.com/a/HTZdP1W.gif
 
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
