@@ -39,7 +39,9 @@ I wanted to build a simple fitness app that can track daily workouts completed, 
 One of the feature is to have a tracking page that can provide feedback/suggestions based on your weekly reports. 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app:
+
+I went through some challenges such as some syntax errors with Swift. I think it really made me confused due to the new langauge that I was learning while finishing the prework but overall, I think I did a great job with the task. 
 
 ## License
 
